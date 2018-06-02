@@ -3,7 +3,7 @@
 	url = https://github.com/maximkulkin/esp-homekit-demo	
 [submodule "esp-open-rtos"]
 	path = esp-open-rtos
-	url = https://github.com/SuperHouse/esp-open-rtos.git
+	url = https://github.com/SuperHouse/esp-open-rtos
 [submodule "esp-open-sdk"]
 	path = esp-open-sdk
-	url = https://github.com/pfalcon/esp-open-sdk.git
+	url = https://github.com/pfalcon/esp-open-sdk
